@@ -1,5 +1,5 @@
 ﻿using DotNetEnv;
-using MySql.Data.MySqlClient;
+using MySqlConnector;
 using System.Data;
 
 namespace Tuzep.Data

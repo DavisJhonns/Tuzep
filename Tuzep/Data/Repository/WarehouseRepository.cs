@@ -1,4 +1,4 @@
-﻿using MySql.Data.MySqlClient;
+﻿using MySqlConnector;
 using Tuzep.Core.Model.MaterialModels;
 using Tuzep.Data.Helpers;
 
