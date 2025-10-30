@@ -6,7 +6,7 @@ dependencies(NuGet/package):
 
 .env file content
 --------------------------------------------------
-"""python
+```python
 # MySQL Database Configuration
 DB_HOST=localhost
 DB_PORT=3306
@@ -21,5 +21,5 @@ DB_TIMEOUT=30
 # Optional: Character set and collation
 DB_CHARSET=utf8mb4
 DB_COLLATION=utf8mb4_general_ci
-"""
+```
 --------------------------------------------------
