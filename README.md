@@ -39,8 +39,8 @@ DB_COLLATION=utf8mb4_general_ci
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/DavisJhonns/Tuzep.git
+   cd Tuzep
    ```
 
 2. **Restore dependencies**
